@@ -16,7 +16,7 @@ class Listener : AppCompatActivity() {
           val button = findViewById<Button>(R.id.button)
 //        val listener = object : View.OnClickListener {
 //            override fun onClick(p0: View?) {
-                Log.d("listener","클릭되었습니다.")
+//                Log.d("listener","클릭되었습니다.")
 //            }
 //        }
 
