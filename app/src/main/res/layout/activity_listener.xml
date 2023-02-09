@@ -24,6 +24,6 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="@id/Text_View"
         android:layout_marginTop="40dp"
-        android:text="BUTTON"/>
+        android:text="Button"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
