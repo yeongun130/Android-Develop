@@ -21,7 +21,7 @@ class Listener : AppCompatActivity() {
 //        }
 
         button.setOnClickListener {
-            Log.d("listener","클릭되었습니다")
+            Log.d("listener","클릭되었습니다.")
         }
     }
 }
