@@ -7,5 +7,6 @@ class Button_and_Stringsorce : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_button_and_stringsorce)
+        
     }
 }
