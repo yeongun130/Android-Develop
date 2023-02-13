@@ -2,4 +2,6 @@
     <string name="app_name">Android</string>
     <string name="btn_Imbtn">나는 버튼</string>
     <string name="hello">Hello \n Nice to meet you</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="hint">Name</string>
 </resources>
