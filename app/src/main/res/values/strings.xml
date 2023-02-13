@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">Android</string>
     <string name="btn_Imbtn">나는 버튼</string>
-    <string name="hello">Hello</string>
+    <string name="hello">Hello \n Nice to meet you</string>
 </resources>
