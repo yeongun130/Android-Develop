@@ -12,7 +12,7 @@
     <string name="Switch">switch</string>
     <string name="off">Off</string>
     <string name="downloading">DownLoading</string>
-    <string name="success">다운로드성공</string>
+    <string name="success">다운로드성공...</string>
     <string name="zero">0</string>
     <string name="zero2">0.0</string>
 </resources>
