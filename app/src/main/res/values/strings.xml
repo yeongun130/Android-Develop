@@ -11,6 +11,6 @@
     <string name="orange">오렌지</string>
     <string name="Switch">switch</string>
     <string name="off">Off</string>
-    <string name="downloading">DownLoading</string>
+    <string name="downloading">DownLoading...</string>
     <string name="success">다운로드성공</string>
 </resources>
