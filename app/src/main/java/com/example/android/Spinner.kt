@@ -15,9 +15,9 @@ class Spinner : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        val data = listOf("선택하세요","1월","2월","3월")
+        var data = listOf("선택하세요","1월","2월","3월")
 
-        val adapter = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, data)
+        var adapter = ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, data)
 
         with(binding) {
             spinner.adapter = adapter
