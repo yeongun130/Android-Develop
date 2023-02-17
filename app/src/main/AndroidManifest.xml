@@ -12,7 +12,10 @@
         android:theme="@style/Theme.Android"
         tools:targetApi="31">
         <activity
-            android:name=".RatingBar"
+            android:name=".ServeViewBinding"
+            android:exported="false" />
+        <activity
+            android:name=".MainViewBinding"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -20,51 +23,38 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".RatingBar"
+            android:exported="false">
 
+        </activity>
         <activity
             android:name=".SeekBar"
-            android:exported="false">
-        </activity>
-
+            android:exported="false" />
         <activity
             android:name=".ProgressBar"
-            android:exported="false">
-        </activity>
-
+            android:exported="false" />
         <activity
             android:name=".ToggleSwitch"
-            android:exported="false">
-        </activity>
-
+            android:exported="false" />
         <activity
             android:name=".CheckBox"
-            android:exported="false">
-        </activity>
-
+            android:exported="false" />
         <activity
             android:name=".RadioButton"
-            android:exported="false">
-        </activity>
-
+            android:exported="false" />
         <activity
             android:name=".EditText"
-            android:exported="false">
-        </activity>
-
+            android:exported="false" />
         <activity
             android:name=".Button_and_Stringsorce"
-            android:exported="false">
-        </activity>
-
+            android:exported="false" />
         <activity
             android:name=".Listener"
-            android:exported="false">
-        </activity>
-
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
-            android:exported="false">
-        </activity>
+            android:exported="false" />
     </application>
 
 </manifest>

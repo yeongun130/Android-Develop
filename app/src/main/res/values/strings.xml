@@ -12,7 +12,14 @@
     <string name="Switch">switch</string>
     <string name="off">Off</string>
     <string name="downloading">DownLoading</string>
-    <string name="success">다운로드성공...</string>
+    <string name="success">다운로드성공</string>
     <string name="zero">0</string>
     <string name="zero2">0.0</string>
+    <string name="main">메인 액티비티</string>
+    <string name="serve">서브 액티비티</string>
+    <string name="start_serve">서브 액티비티</string>
+    <string name="to1" translatable="false">to1</string>
+    <string name="to2" translatable="false">to2</string>
+    <string name="Edit">전달할 메시지를 입력하세요.</string>
+    <string name="end">액티비티 닫기</string>
 </resources>
