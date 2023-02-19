@@ -1,6 +1,6 @@
 package com.example.android
 
-//import android.icu.text.SimpleDateFormat
+import android.icu.text.SimpleDateFormat
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -75,9 +75,9 @@ class CustemAdapter(val listData:MutableList<Memo>) : androidx.recyclerview.widg
                 textNo.text = "${memo.no}"
                 textTitle.text = memo.title
 
-//                val sdf = SimpleDateFormat("yyyy-MM-dd")
-//                val formattedData = sdf.format(memo.timestamp)
-//                textDate.text = formattedData
+               val sdf = SimpleDateFormat("yyyy-MM-dd")
+               val formattedData = sdf.format(memo.timestamp)
+               textDate.text = formattedData
             }
         }
     }
