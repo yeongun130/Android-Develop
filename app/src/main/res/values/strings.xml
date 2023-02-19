@@ -22,4 +22,8 @@
     <string name="Edit">전달할 메시지를 입력하세요.</string>
     <string name="end">액티비티 닫기</string>
     <string name="select">선택 결과</string>
+    <string name="recycler">RecyclerView</string>
+    <string name="one">01</string>
+    <string name="title">Title</string>
+    
 </resources>
