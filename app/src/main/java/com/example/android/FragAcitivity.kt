@@ -29,7 +29,7 @@ class FragAcitivity : AppCompatActivity() {
     }
 
     fun goBack() {
-        //onBackPressed()
+        onBackPressed()
     }
 
     fun setFramgment() {
