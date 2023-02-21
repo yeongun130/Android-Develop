@@ -25,5 +25,16 @@
     <string name="recycler">RecyclerView</string>
     <string name="one">01</string>
     <string name="title">Title</string>
+    <string name="title_detail">Detail</string>
+    <string name="title_list">List</string>
+    <string name="activity">Activity</string>
+    <string name="send">send</string>
+    <string name="next">NEXT</string>
+    <string name="back">Back</string>
+    <string name="date" translatable="false">2023-02-20</string>
+    <string name="FragA">Fragment A</string>
+    <string name="FragB">Fragment B</string>
+    <string name="FragC">Fragment C</string>
+    <string name="FragD">Fragment D</string>
 
 </resources>
