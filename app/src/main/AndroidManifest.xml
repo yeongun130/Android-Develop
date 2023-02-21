@@ -12,7 +12,7 @@
         android:theme="@style/Theme.Android"
         tools:targetApi="31">
         <activity
-            android:name=".FragAcitivity"
+            android:name=".FragmenMainTab"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,21 +21,21 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".RecyclerView"
+            android:name=".FragAcitivity"
             android:exported="false">
-
         </activity>
         <activity
+            android:name=".RecyclerView"
+            android:exported="false" />
+        <activity
             android:name=".Spinner"
-            android:exported="false">
-        </activity>
+            android:exported="false" />
         <activity
             android:name=".ServeViewBinding"
             android:exported="false" />
         <activity
             android:name=".MainViewBinding"
-            android:exported="false">
-        </activity>
+            android:exported="false" />
         <activity
             android:name=".RatingBar"
             android:exported="false" />
