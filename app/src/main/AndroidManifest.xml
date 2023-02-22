@@ -26,7 +26,7 @@
         </activity>
         <activity
             android:name=".FragAcitivity"
-            android:exported="false"></activity>
+            android:exported="false"/>
         <activity
             android:name=".RecyclerView"
             android:exported="false" />
