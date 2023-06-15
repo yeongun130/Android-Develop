@@ -2,7 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
     <!-- 일반권한 - 매니페스트에서 명세 해주는 것만으로도 사용할 수 있다. -->
-    <uses-permission android:name="android.permission.INTERNET" /> <!-- 위험권한 - 매니페스트에서 명세 해주고 코드에서도 한번 더 확인 (개인 정보와 관련된 권한) -->
+    <uses-permission android:name="android.permission.INTERNET" /> 
+    <!-- 위험권한 - 매니페스트에서 명세 해주고 코드에서도 한번 더 확인 (개인 정보와 관련된 권한) -->
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 

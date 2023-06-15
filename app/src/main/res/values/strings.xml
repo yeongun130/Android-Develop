@@ -35,7 +35,7 @@
     <string name="FragA">Fragment A</string>
     <string name="FragB">Fragment B</string>
     <string name="FragC">Fragment C</string>
-    <string name="FragD">Fragment D</string>
+    <string name="FragD">Fragment D</string> 
     <string name="danger">위험권한</string>
     <string name="camera">카메라</string>
 
