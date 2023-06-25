@@ -3,7 +3,7 @@ package com.example.android
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import android.view.View
+import android.view.View 
 import com.example.android.databinding.ActivityAndroidLifeCycleBinding
 
 class AndroidLifeCycle : AppCompatActivity() {
